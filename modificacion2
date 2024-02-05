@@ -1,0 +1,12 @@
+tipo:diesel:9000:10000.0
+tipo:extra:18500:1000.0
+tipo:corriente:16000:1000.0
+tipo:plus:17000:1000.0
+surtidor:kathy:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:chabely:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:chabely:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+surtidor:chabely:diesel:0.0:extra:0.0:corriente:0.0:plus:0.0
+empleado:mathias:0
+empleado:walter:0
+empleado:chabely:0
+empleado:kathy:0
